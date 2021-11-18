@@ -175,6 +175,7 @@ UPROGS=\
 	_ln\
 	_ls\
 	_mkdir\
+	_process_list\
 	_rm\
 	_sh\
 	_stressfs\
